@@ -47,9 +47,7 @@ This web application will have five pages. Below are the features and functional
 Firstly, the route is a handler that will map the URL to a particular action when the user start to use the application. Next, the view is defined as a script that will display all the data in the user’s browser. Then, the model will interact with the database and it will carry the data to the view. After that, controllers will handle and fill the model with data that has been modified or updated. 
 Before the user can start using the website, the user needs to log in using student id and password. The user will send a request to the route to log into the website. Then, it will redirect to the Homepage(view) and the users can request for the Student Profile page(controller) to update or modify their details. After the user successfully updates or modifies the details, the same page will display the stored data. Here is model will be used to interact with the database when the user change their data. The students are also able to submit their attendance and assignment using the Attendance page(view) and Assignment Page(view).
 
-![]
-
-
+![ER DIAGRAM](https://user-images.githubusercontent.com/61734948/117008877-bf4bba00-ad1d-11eb-9c5e-7971c60727a1.png)
 
 ### SEQUENCE DIAGRAM
 
@@ -58,8 +56,22 @@ Sequence diagrams show how objects in the system interact with one another and i
 Furthermore, after successfully login the object will go through to the homepage and an alternative happens when they would like to logout rather than proceed to the next page and the object will pass through until the login page back. Next, if users would like to proceed from homepage to profile page, the object will continue to pass until profile page and will encounter alternatives when they would like to logout from the profile page, the object will be passed to the login page. Furthermore,objects will pass from profile page to attendance page if the user proceeds from profile page to attendance page and the object will be passed to login page if they log out from the page. Finally, the object will continue to be passed from attendance page to assignment page if they proceed to the page and will make the object being passed to login page if they logout.
 In addition, the object from the homepage can be passed directly to the profile page, attendance page and assignment page because the user can directly access it from the homepage. Next, activation boxes at each of the life lines shows that the longer the activation box, the more the object interacts in the system. 
 
+![SEQUENCE DIAGRAM](https://user-images.githubusercontent.com/61734948/117007430-3b450280-ad1c-11eb-8f74-2ec50c1fa0df.png)
 
 
+# MOCKUP 
+1. LOGIN PAGE
+![LOGIN PAGE](https://user-images.githubusercontent.com/61734948/117010118-0edeb580-ad1f-11eb-893a-273ed28da38a.png)
 
+2. HOMEPAGE 
+![HOMEPAGE](https://user-images.githubusercontent.com/61734948/117010141-143c0000-ad1f-11eb-91d9-d359f631a479.png)
 
+3. PROFILE PAGE
+ ![STUDENT PROFILE](https://user-images.githubusercontent.com/61734948/117010163-19994a80-ad1f-11eb-8089-5984c372179d.png)
+
+4. ATTANDANCE PAGE
+![ATTANDANCE](https://user-images.githubusercontent.com/61734948/117010186-2027c200-ad1f-11eb-9164-03ec83f44d5e.png)
+
+5. ASSIGNMENT PAGE
+![ASSIGNMENT](https://user-images.githubusercontent.com/61734948/117010225-2cac1a80-ad1f-11eb-9e49-d151ac0e9585.png)
 
