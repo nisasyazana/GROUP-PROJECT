@@ -75,7 +75,7 @@ In addition, the object from the homepage can be passed directly to the profile 
 3. PROFILE PAGE
  ![STUDENT PROFILE](https://user-images.githubusercontent.com/61734948/117010163-19994a80-ad1f-11eb-8089-5984c372179d.png)
 
-4. ATTANDANCE PAGE
+4. ATTENDANCE PAGE
 ![ATTANDANCE](https://user-images.githubusercontent.com/61734948/117010186-2027c200-ad1f-11eb-9164-03ec83f44d5e.png)
 
 5. ASSIGNMENT PAGE
