@@ -1,16 +1,22 @@
-# GROUP-PROJECT
+# GROUP-PROJECT PROPOSAL 
+KULLIYYAH OF INFORMATION & COMMUNICATION TECHNOLOGY
+SEMESTER 2, 2020/2021
+
 INFO 3305 WEB APPLICATION DEVELOPMENT
 SECTION  03
 
+Supervised by:
+Dr. Mohd Khairul Azmi Bin Hassan
+
 ## Group Members
 
-Nurul Najihah Binti Khairul Najmy 1915634
+- Nurul Najihah Binti Khairul Najmy 1915634
 
-Nisa Syazana Bt Mohamed Rizal 1914200
+- Nisa Syazana Bt Mohamed Rizal 1914200
 
-Siti Nor Farihan binti Supia 1911992
+- Siti Nor Farihan binti Supia 1911992
 
-Muhammad Rafiqul Islam 1823295
+- Muhammad Rafiqul Islam 1823295
 
 ### INTRODUCTION
 
