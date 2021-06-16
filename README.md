@@ -93,14 +93,20 @@ In addition, the object from the homepage can be passed directly to the profile 
 
 3.This page is for student to view and edit their profile. 
 ![WhatsApp Image 2021-06-16 at 23 24 15 (1)](https://user-images.githubusercontent.com/61734948/122248709-d7a51c00-cefa-11eb-95c3-67aa9a602d88.jpeg)
+![WhatsApp Image 2021-06-16 at 23 24 15 (2)](https://user-images.githubusercontent.com/61734948/122250826-93b31680-cefc-11eb-8ece-de7fb1b41c44.jpeg)
+
 
 
 4.This page is for student to submit their attandance to the classes.
 ![WhatsApp Image 2021-06-16 at 23 24 14](https://user-images.githubusercontent.com/61734948/122248788-ea1f5580-cefa-11eb-8c36-8ff279e7f641.jpeg)
+![WhatsApp Image 2021-06-16 at 23 24 14 (2)](https://user-images.githubusercontent.com/61734948/122250695-74b48480-cefc-11eb-8c3e-eff1349e5035.jpeg)
+
 
 
 5.This page is for student to submit their assignment that had been assigned to them.
 ![WhatsApp Image 2021-06-16 at 23 24 13](https://user-images.githubusercontent.com/61734948/122248864-f7d4db00-cefa-11eb-9be5-fc14b2cc57ae.jpeg)
+![WhatsApp Image 2021-06-16 at 23 24 13 (1)](https://user-images.githubusercontent.com/61734948/122250777-885feb00-cefc-11eb-9566-7e6ff80384a4.jpeg)
+
 
 
 ### CHALLENGE & DIFFICULITIES
