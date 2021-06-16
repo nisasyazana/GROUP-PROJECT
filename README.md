@@ -84,6 +84,12 @@ In addition, the object from the homepage can be passed directly to the profile 
 ![ASSIGNMENT](https://user-images.githubusercontent.com/61734948/117010225-2cac1a80-ad1f-11eb-9e49-d151ac0e9585.png)
 
 # PROJECT SYSTEM & EXPLANATION
+This page is for student to log in using their username and password
+This page is for student to take note on any notice and there are courses that they take for the semester being display for them.
+This page is for student to view and edit their profile
+This page is for student to submit their attandance to the classes
+This page is for student to submit their assignment that had been assigned to them.
+
 ### CHALLENGE & DIFFICULITIES
 1. It is quite hard to find a template that satisfy all of us and can be integrated. We found several of it and the template that we used is the only one that we sucessfully integrated it.
 2. We encountered few problem on XAMPP and it is a rare case where it takes few hours for us to solve the issue.
