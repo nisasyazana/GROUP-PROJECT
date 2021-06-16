@@ -84,6 +84,7 @@ In addition, the object from the homepage can be passed directly to the profile 
 ![ASSIGNMENT](https://user-images.githubusercontent.com/61734948/117010225-2cac1a80-ad1f-11eb-9e49-d151ac0e9585.png)
 
 # PROJECT SYSTEM & EXPLANATION
+1. ![WhatsApp Image 2021-06-16 at 23 24 15](https://user-images.githubusercontent.com/61734948/122248046-61081e80-cefa-11eb-8c1f-042e0ecbb7ea.jpeg)
 This page is for student to log in using their username and password
 This page is for student to take note on any notice and there are courses that they take for the semester being display for them.
 This page is for student to view and edit their profile
