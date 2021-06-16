@@ -86,6 +86,6 @@ In addition, the object from the homepage can be passed directly to the profile 
 # PROJECT SYSTEM & EXPLANATION
 ### CHALLENGE & DIFFICULITIES
 1. It is quite hard to find a template that satisfy all of us and can be integrated. We found several of it and the template that we used is the only one that we sucessfully integrated it.
-2. 
+2. We encountered few problem on XAMPP and it is a rare case where it takes few hours for us to solve the issue.
 # PRESENTATION GROUP PROJECT PROPOSAL
 https://youtu.be/IOxlrE15G9s
