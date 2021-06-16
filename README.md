@@ -84,20 +84,24 @@ In addition, the object from the homepage can be passed directly to the profile 
 ![ASSIGNMENT](https://user-images.githubusercontent.com/61734948/117010225-2cac1a80-ad1f-11eb-9e49-d151ac0e9585.png)
 
 # PROJECT SYSTEM & EXPLANATION
-1. ![WhatsApp Image 2021-06-16 at 23 24 15](https://user-images.githubusercontent.com/61734948/122248046-61081e80-cefa-11eb-8c1f-042e0ecbb7ea.jpeg)
-This page is for student to log in using their username and password
+1.This page is for student to log in using their username and password
+![WhatsApp Image 2021-06-16 at 23 24 15](https://user-images.githubusercontent.com/61734948/122248046-61081e80-cefa-11eb-8c1f-042e0ecbb7ea.jpeg)
 
-2. ![WhatsApp Image 2021-06-16 at 23 29 17](https://user-images.githubusercontent.com/61734948/122248647-cb20c380-cefa-11eb-904d-c4f2bfaf9ed1.jpeg)
-This page is for student to take note on any notice and there are courses that they take for the semester being display for them.
+2.This page is for student to take note on any notice and there are courses that they take for the semester being display for them.
+![WhatsApp Image 2021-06-16 at 23 29 17](https://user-images.githubusercontent.com/61734948/122248647-cb20c380-cefa-11eb-904d-c4f2bfaf9ed1.jpeg)
 
-3.![WhatsApp Image 2021-06-16 at 23 24 15 (1)](https://user-images.githubusercontent.com/61734948/122248709-d7a51c00-cefa-11eb-95c3-67aa9a602d88.jpeg)
-This page is for student to view and edit their profile
 
-4.![WhatsApp Image 2021-06-16 at 23 24 14](https://user-images.githubusercontent.com/61734948/122248788-ea1f5580-cefa-11eb-8c36-8ff279e7f641.jpeg)
-This page is for student to submit their attandance to the classes
+3.This page is for student to view and edit their profile. 
+![WhatsApp Image 2021-06-16 at 23 24 15 (1)](https://user-images.githubusercontent.com/61734948/122248709-d7a51c00-cefa-11eb-95c3-67aa9a602d88.jpeg)
 
-5.![WhatsApp Image 2021-06-16 at 23 24 13](https://user-images.githubusercontent.com/61734948/122248864-f7d4db00-cefa-11eb-9be5-fc14b2cc57ae.jpeg)
-This page is for student to submit their assignment that had been assigned to them.
+
+4.This page is for student to submit their attandance to the classes.
+![WhatsApp Image 2021-06-16 at 23 24 14](https://user-images.githubusercontent.com/61734948/122248788-ea1f5580-cefa-11eb-8c36-8ff279e7f641.jpeg)
+
+
+5.This page is for student to submit their assignment that had been assigned to them.
+![WhatsApp Image 2021-06-16 at 23 24 13](https://user-images.githubusercontent.com/61734948/122248864-f7d4db00-cefa-11eb-9be5-fc14b2cc57ae.jpeg)
+
 
 ### CHALLENGE & DIFFICULITIES
 1. It is quite hard to find a template that satisfy all of us and can be integrated. We found several of it and the template that we used is the only one that we sucessfully integrated it.
