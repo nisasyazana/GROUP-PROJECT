@@ -18,6 +18,8 @@ Dr. Mohd Khairul Azmi Bin Hassan
 
 - Muhammad Rafiqul Islam 1823295
 
+# STUDENT DASHBOARD
+
 ### INTRODUCTION
 
 The student dashboard provides the information for the student regarding their studies. All of the student’s information, including their assignments, attendance records, and more, is stored and tracked. The web application acts as an automated filing cabinet for school-related documents.  It can also be used to capture and visualize traces of learning experiences to encourage comprehension, reflection, and sense-making, as well as to help students set goals and monitor progress toward them. It is a simple web application that instantly and easily shows the users their level of interaction with their studies similarly to our university’s dashboard, iTaleemc. There are several benefits that can be obtained from this application. Firstly, to improve management of prospective and enrolled student data. This is because all of the students’ information will be stored at one place. Next, it will help to increase communication between the student and lecturer. Both of the parties will be able to communicate with each other through this platform. Lastly, it will help to reduce the time spent on maintaining and organizing student records as the records are kept at a central location and can be obtained easily. Our hope is that by creating this web application, students will be able to use the dashboard to help them take control of their studies and improve their skills. According to our plan, our team will be focusing on the student’s side of the platform therefore, the primary users are students. 
