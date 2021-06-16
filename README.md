@@ -4,7 +4,6 @@ SEMESTER 2, 2020/2021
 
 INFO 3305 WEB APPLICATION DEVELOPMENT
 SECTION  03
-![a](https://user-images.githubusercontent.com/61734948/122223232-922a2400-cee5-11eb-9960-34a571cea2ac.jpg)
 
 Supervised by:
 Dr. Mohd Khairul Azmi Bin Hassan
